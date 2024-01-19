@@ -11,9 +11,6 @@ The Employee Management System (EMS) is a Node.js-based backend system that faci
 
 ## Technologies Used
 - **Node.js:** Server-side JavaScript runtime for building scalable network applications.
-- **Express.js:** Web application framework for Node.js, simplifying the development of APIs.
-- **MongoDB:** NoSQL database for storing and managing employee data.
-- **Mongoose:** ODM (Object Data Modeling) library for MongoDB and Node.js.
 
 ## Getting Started
 ### Prerequisites
