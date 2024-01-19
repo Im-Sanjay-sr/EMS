@@ -15,17 +15,18 @@ The Employee Management System (EMS) is a Node.js-based backend system that faci
 ## Getting Started
 ### Prerequisites
 1. Ensure you have Node.js and npm installed. If not, download and install them from [https://nodejs.org/](https://nodejs.org/).
-2. Set up a MongoDB instance and obtain connection details.
+
 
 ### Installation
 1. Clone the repository: `git clone https://github.com/Im-Sanjay-sr/EMS.git`
 2. Navigate to the project folder: `cd EMS`
 3. Install dependencies: `npm install`
-4. Configure MongoDB connection: Update the `config.js` file with your MongoDB URI.
+
 
 ### Usage
 1. Start the server: `npm start`
-2. Access the API endpoints for CRUD operations using tools like Postman or curl.
+2. Start the server: `node index.js`
+3. Access the API endpoints for CRUD operations using tools like Postman or curl.
    - Create: `POST /api/employees`
    - Read: `GET /api/employees` or `GET /api/employees/:id`
    - Update: `PUT /api/employees/:id`
@@ -39,13 +40,7 @@ If you'd like to contribute to this project, follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-## License
-This project is licensed under the [License Name] - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-- Acknowledge any third-party libraries or resources used in your project.
-- Give credit to contributors or inspirations.
 
 ## Contact
-For any inquiries or support, feel free to contact us at [your-email@example.com].
+For any inquiries or support, feel free to contact us at [sanjaymagicalvlogs@gmail.com].
 
