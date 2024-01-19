@@ -11,8 +11,8 @@ The Employee Management System (EMS) is a Node.js-based backend system that faci
 
 ## screenshots
 
-|1pic|2pic|3pic|4pic|5pic|
-|....|....|....|....|....|
+| 1pic | 2pic | 3pic | 4pic | 5pic |
+|------|------|------|------|------|
 | <img src="https://github.com/Im-Sanjay-sr/EMS/blob/main/screenshots/Screenshot%202024-01-19%20203045.png">|<img src="https://github.com/Im-Sanjay-sr/EMS/blob/main/screenshots/Screenshot%202024-01-19%20202955.png">|<img src="https://github.com/Im-Sanjay-sr/EMS/blob/main/screenshots/Screenshot%202024-01-19%20203132.png">|<img src="https://github.com/Im-Sanjay-sr/EMS/blob/main/screenshots/Screenshot%202024-01-19%20203229.png">|<img src="https://github.com/Im-Sanjay-sr/EMS/blob/main/screenshots/Screenshot%202024-01-19%20203251.png">|
 
 ## Technologies Used
